@@ -1,0 +1,76 @@
+Subject: Semantic Web themamiddag, 7 juni 14:00
+From: Lynda Hardman <Lynda.Hardman@cwi.nl>
+Date: Tue, 28 May 2002 11:04:12 +0200
+To: INFWETWG@NIC.SURFNET.NL
+
+
+Graag wil ik dat mensen zich aanmelden <Lynda.Hardman@cwi.nl> wegens
+het beperkte aantal stoelen in de zaal en het aantal
+koffie/thee/borrels dat besteld moeten worden.
+
+Graag deze bericht verspreiden aan geinteresseerden.
+
+
+
+                    Themamiddag "The Semantic Web"
+                         Vrijdag 7 juni 2002
+
+                      Zalencentrum Hoog Brabant
+                          Radboudkwartier 23
+                           3511 CC Utrecht
+
+                              Sprekers:
+                       Guus Schreiber, SWI, UvA
+                    Heiner Stuckenschmidt, AI, VU
+
+
+The Web is not Well-Formed:
+Issues in Developing a Web Ontology Language
+
+Guus Schreiber, SWI, UvA
+
+W3C has recently started a new working group to develop a "web
+ontology language" (nicknamed "OWL") which should enable semantic
+annotations of web resources in a more formal way than that provided
+by RDF. In this talk I will look at the issues involved in
+constructing such a language, using examples from a number of
+semantic-annotation and -search studies.
+
+The main problem is: how can a web ontology language support the
+required expressivity while still keeping the language within
+(decidable) logical limits. This is reminiscent of the old
+neat-versus-scruffy debate in Artificial Intelligence.
+
+
+
+Semantic Web Languages - Beauties or Beasts?
+
+Heiner Stuckenschmidt, AI, VU
+
+In this presentation, we discuss the current knowledge representation
+languages that have been proposed in the context of the Semantic
+Web. We take the aims of Semantic Web research as a starting point for
+a critical survey of existing proposals. We point out the benefits of
+languages such as DAML+OIL in terms of precise semantics and reasoning
+support. Confronting these languages with the goals of the Semantic
+Web, we argue that all current proposals still fail to meet some
+essential requirements such as local containment and robustness of
+semantics and reasoning, explicit representation of mappings between
+distributed models and support for model extraction with minimal user
+interaction. In the last part of the presentation, we will point out
+research that explicitly addresses the problems mentioned above and
+discuss the impact of this research on the development of next
+generation Semantic Web Languages.
+
+
+Agenda
+
+13:30 Welkom koffie/thee
+14:00 Guus Schreiber
+15:00 pauze
+15:30 Heiner Stuckenschmidt
+16:30 Discussie
+17:00 Borrel tot 17:30
+
+                              ---***---
+

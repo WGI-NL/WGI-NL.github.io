@@ -1,0 +1,210 @@
+body {position: relative;
+	background-image: url(figs/grey_dot.gif);
+	background-repeat: repeat;
+	color: black;
+	background-color: white;
+	font-family:verdana, sans-serif;
+	margin-left: 0;
+	margin-top: 0;
+	}
+	
+.bodyActueel {position: relative;
+	background-image: url(figs/red_dot3.gif);
+	background-repeat: repeat;
+	color: black;
+	background-color: white;
+	font-family:verdana, sans-serif;
+	margin-left: 0;
+	margin-top: 0;
+	}	
+
+table {border-collapse: collapse;
+	}
+
+img {border: none;
+	}
+
+.tableBorder {padding: 10px;
+	border: 2px dotted;
+	border-color: #FF9933;
+	}
+
+.validator {vertical-align: bottom;
+	text-align: right;
+	}
+
+.actueelInfo {text-align: left;
+	font-weight: bold;
+	}
+
+.actueelAgenda {table-layout: fixed;
+	width:30%
+	}
+
+.logo {background-color: transparent;
+	height: 90px;
+	text-align: right;
+	vertical-align: bottom;
+	border-right: 2px dotted;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	}
+
+.title {font-size: 18px;
+	font-family: verdana, sans-serif;
+	font-weight: bold;
+	color: #666666; 
+	padding-left: 31px;
+	vertical-align: bottom;
+	}
+
+.navigationTop a {display: block;
+	background-color: transparent;
+	padding: 2px;
+	border-top: 2px dotted;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	text-align: right;
+	}
+
+.navigation a {display: block;
+	background-color: transparent;
+	padding: 2px;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	text-align: right;
+	}
+
+a {text-decoration:none; 
+	color:#095280; 
+	}
+
+a:hover {text-decoration:none; 
+	color: #FF9933; 
+	background-color: white;
+	}
+	
+
+.aktivTop {display:block; 
+	text-decoration:none; 
+	color: #FF9933; 
+	background-color: white;
+	padding: 2px;
+	border-top: 2px dotted;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	text-align: right;
+	}
+
+.aktiv {display:block; 
+	text-decoration:none; 
+	color: #FF9933; 
+	background-color: white;
+	padding: 2px;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	text-align: right;
+	}
+
+.navigationTop2 a {display:block;
+	background-image: url(figs/grey_dot.gif);
+	background-repeat: repeat;
+	padding: 2px;
+	border-top: 2px dotted;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	}
+
+.navigation2 a {display:block;
+	background-image: url(figs/grey_dot.gif);
+	background-repeat: repeat;
+	padding: 2px;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	}
+
+.navigation2 a:hover {display:block;
+	background-color: white;
+	padding: 2px;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	}
+
+.aktivTop2 {display:block; 
+	text-decoration:none; 
+	color: #FF9933; 
+	background-color: white;
+	text-decoration:none;
+	padding: 2px;
+	border-top: 2px dotted;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	text-align: left;
+	}
+
+.aktiv2 {display:block; 
+	text-decoration:none; 
+	color: #FF9933; 
+	background-color: white;
+	text-decoration:none;
+	padding: 2px;
+	border-bottom: 2px dotted;
+	border-color: #FF9933;
+	text-align: left;
+	}
+
+.content {background-color: white;
+	color: black;
+	vertical-align:top;
+	padding: 31px;
+	border: 2px dotted;
+	border-color: #FF9933;
+	}
+
+.contentText {vertical-align:top;
+	text-align: left;}
+
+td {vertical-align:top;
+	text-align: left;}
+
+/*em {font-weight: bold;}*/
+
+.actueel {width: 340px;
+	padding: 20px;
+	border: medium solid #FF9900;
+	background-image: url(figs/red_dot3.gif);
+	background-repeat: repeat;
+	background-color: white;
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+	left: 505px;
+	top: 173px;
+	}
+
+.actueel a {display:block; 
+	width:100%;  
+	color:#095280;
+	background-color: transparent; 
+	text-decoration:none;
+	}
+
+.actueel a:hover {text-decoration: underline;
+	}
+
+.platzhalter {color:#FFFFFF;
+	}
+
+.notulen {padding: 20px;
+	border: 2px dotted #CCCCCC;
+	background-color: white;
+	color: black;
+	}
+
+.bestuurTableBorderRight {padding-right: 10px;
+	}
+
+.admin {color: black;
+	font-size: 10px;
+	text-align: right;
+	}
